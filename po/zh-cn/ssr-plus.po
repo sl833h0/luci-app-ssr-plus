@@ -1,8 +1,8 @@
 msgid ""
 msgstr "Content-Type: text/plain; charset=UTF-8\n"
 
-msgid "ShadowSocksR Client"
-msgstr "ShadowSocksR 客户端"
+msgid "XinV2.0 Accelerator Client"
+msgstr "XinV2.0 Accelerator 客户端"
 
 msgid "Enable"
 msgstr "启用"
@@ -13,11 +13,11 @@ msgstr "停用"
 msgid "Log"
 msgstr "日志"
 
-msgid "ShadowSocksR is running"
-msgstr "ShadowSocksR 客户端运行中"
+msgid "XinV2.0 Accelerator is running"
+msgstr "XinV2.0 Accelerator 客户端运行中"
 
-msgid "ShadowSocksR is not running"
-msgstr "ShadowSocksR 客户端未运行"
+msgid "XinV2.0 Accelerator is not running"
+msgstr "XinV2.0 Accelerator 客户端未运行"
 
 msgid "Global Setting"
 msgstr "全局设置"
@@ -25,8 +25,8 @@ msgstr "全局设置"
 msgid "Global Server"
 msgstr "全局服务器"
 
-msgid "ShadowSocksR SOCK5 Proxy is running"
-msgstr "ShadowSocksR SOCK5代理运行中"
+msgid "XinV2.0 Accelerator SOCK5 Proxy is running"
+msgstr "XinV2.0 Accelerator SOCK5代理运行中"
 
 msgid "UDP Relay Server"
 msgstr "UDP中继服务器"
@@ -121,14 +121,14 @@ msgstr "客户端"
 msgid "SSR Server"
 msgstr "服务端"
 
-msgid "ShadowSocksR Server"
-msgstr "ShadowSocksR 服务端"
+msgid "XinV2.0 Accelerator Server"
+msgstr "XinV2.0 Accelerator 服务端"
 
-msgid "ShadowSocksR Server is running"
-msgstr "ShadowSocksR 服务端运行中"
+msgid "XinV2.0 Accelerator Server is running"
+msgstr "XinV2.0 Accelerator 服务端运行中"
 
-msgid "ShadowSocksR Server is not running"
-msgstr "ShadowSocksR 服务端未运行"
+msgid "XinV2.0 Accelerator Server is not running"
+msgstr "XinV2.0 Accelerator 服务端未运行"
 
 msgid "Enable Server"
 msgstr "启动服务端"
@@ -160,7 +160,7 @@ msgstr "Kcptun可执行文件格式不正确，请确认是否正确下载了路
 msgid "Enable Process Monitor"
 msgstr "启用进程监控"
 
-msgid "Edit ShadowSocksR Server"
+msgid "Edit XinV2.0 Accelerator Server"
 msgstr "编辑服务器配置"
 
 msgid "Alias"
@@ -377,8 +377,8 @@ msgstr "通过代理更新"
 msgid "GFW List"
 msgstr "GFW列表"
 
-msgid "ShadowSocksR Plus+ Settings"
-msgstr "ShadowSocksR Plus+ 设置（支持SS/SSR/V2RAY）"
+msgid "XinV2.0 Accelerator Settings"
+msgstr "XinV2.0 Accelerator 设置（支持SS/SSR/V2RAY）"
 
 msgid "Main Server"
 msgstr "主服务器"
